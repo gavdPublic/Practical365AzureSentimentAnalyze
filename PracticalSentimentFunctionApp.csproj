@@ -7,7 +7,7 @@
     <PackageReference Include="AppForSharePointOnlineWebToolkit" Version="3.1.5" />
     <PackageReference Include="Microsoft.Azure.CognitiveServices.Language.TextAnalytics" Version="4.0.0" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.24" />
-    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
